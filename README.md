@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @yuan-2
-- 👀 I’m interested in the Frontend Development and UI/UX field!
-- :books: I’m currently a Year 3 student studying in Singapore Management University's School of Computing and Information Systems as an Information Systems (Digital Cloud Solutioning) major. 
-- :bulb: I’m looking for internship opportunities that can allow me to explore in the area of frontend development, UI/UX design or product management. However, I'm very open to try out other opportunities in the technical field too!
-- 📫 Email: yycao.2019@smu.edu.sg
+- 👀 I’m interested in the Frontend Development, UI/UX & Product Management field!
+- :books: I’m currently a Year 4 student studying in Singapore Management University's School of Computing and Information Systems as an Information Systems (Digital Cloud Solutioning) major. 
+- :bulb: I’m looking for opportunities that can allow me to explore in the area of frontend development, UI/UX design or product management. However, I'm very open to try out other opportunities in the technical field too!
+- 📫 Email: caoyuanyuan812@gmail.com
 - :superhero_woman: LinkedIn: https://www.linkedin.com/caoyuanyuan/
-- :desktop_computer: Personal Website: http://yuanc.cf/ <- this is still a work in progress, so it'll be updated constantly!
+<!-- - :desktop_computer: Personal Website: http://yuanc.cf/ <- this is still a work in progress, so it'll be updated constantly! -->
 - :mag: The public repositories here are some of my projects (includes school projects). Feel free to take a look at them! 
 
 <!---
