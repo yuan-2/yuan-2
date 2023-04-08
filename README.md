@@ -4,6 +4,7 @@
 - :bulb: I’m looking for opportunities that can allow me to explore in the area of frontend development, UI/UX design or product management. However, I'm very open to try out other opportunities in the technical field too!
 - 📫 Email: caoyuanyuan812@gmail.com
 - :superhero_woman: LinkedIn: https://www.linkedin.com/caoyuanyuan/
+- :globe_with_meridians: Personal Website: https://personalwebsite-blond.vercel.app/
 <!-- - :desktop_computer: Personal Website: http://yuanc.cf/ <- this is still a work in progress, so it'll be updated constantly! -->
 - :mag: The public repositories here are some of my projects (includes school projects). Feel free to take a look at them! 
 
