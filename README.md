@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yuan-2
-- 👀 I’m interested in the Frontend Development, UI/UX & Product Management field!
+- 👀 I’m interested in the Product Management, Frontend Development, UI/UX & Cloud Technologies field!
 - :books: I’m currently a Year 4 student studying in Singapore Management University's School of Computing and Information Systems as an Information Systems (Digital Cloud Solutioning) major. 
 - :bulb: I’m looking for opportunities that can allow me to explore in the area of frontend development, UI/UX design or product management. However, I'm very open to try out other opportunities in the technical field too!
 - 📫 Email: caoyuanyuan812@gmail.com
